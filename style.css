@@ -12,6 +12,9 @@
     background: var(--main-color);
     color: #fff;
   }
+html{
+    scroll-behavior: smooth;
+ }
   :root {
     --main-color: #ffb411;
     --text-color: #1e1c2a;
